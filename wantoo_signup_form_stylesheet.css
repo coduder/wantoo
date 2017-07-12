@@ -1,0 +1,43 @@
+#header {
+ font-family : 'Pacifico';  
+ font-size : 25;
+ background-color: #00F0DF;
+ color: white;
+ border-top-left-radius: 15px;
+ border-top-right-radius: 15px;
+ border-left: 3px solid #f75d2a;
+ border-right: 3px solid #f75d2a;   
+ position: relative;
+ text-align: center;
+}
+
+#wrapper{
+ border-left: 3px solid #f75d2a;   
+ border-right: 3px solid #f75d2a;   
+ border-bottom: 3px solid #f75d2a;   
+}
+
+.wantoo {
+ color:#f75d2a;
+ font-family:Lobster;
+ font-size: 35px;   
+}
+
+form {
+ font-family: Verdana;   
+}
+
+input {
+ font-family: Century Gothic;
+ color: #777;
+}
+
+#inputs {
+	width: 200px;
+	clear: both;
+}
+
+#inputs input {
+	width: 100%;
+	clear: both;
+}
